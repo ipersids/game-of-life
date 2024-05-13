@@ -131,3 +131,7 @@ _________
 
 Written by Julia Persidskaia.<br>
 [LinkedIn](https://www.linkedin.com/in/iuliia-persidskaia/) <br>
+
+
+<br>
+<img src="https://certificates.cs50.io/c2ff61e5-dca0-4d8f-8c95-214601bf3674.png" width="600">
